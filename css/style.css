@@ -1,0 +1,57 @@
+* {
+    font-family: "Baloo Bhai", cursive;
+    margin: 10px;
+  }
+  body {
+    background-color: blue;
+  }
+  h1 {
+    text-align: center;
+    color: yellow;
+  }
+  nav {
+    text-align: center;
+  }
+  a {
+    margin: 10%;
+  }
+  video {
+    display: block;
+    margin: 20px auto;
+  }
+ iframe{
+    width: 620px;
+    height: 315px;
+    margin: 2px;
+}
+table{
+    width: 50%;
+    margin: auto;
+    border: 1px solid white;
+    font-size: 25px;
+}
+th{
+    color: red;
+    border: 1px solid black;
+    background-color: white;
+    /*para ponerle estilo a los borse de las tablas*/
+    border-style: dashed;
+}
+td{
+    border: 1px solid black;
+    background-color: yellowgreen;
+    text-align: center;
+}
+input{
+    width: 450px;
+    margin: 20px;
+    }
+label{
+    color: red;
+}
+button{
+    background: rebeccapurple;
+    font-size: 30px;
+    border-radius: 10%;
+
+}
